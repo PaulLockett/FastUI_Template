@@ -13,7 +13,7 @@ tags:
 
 This example starts up a [FastUI](https://github.com/pydantic/FastUI/tree/main) server.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/8e4fb37b-9f96-480c-b3ad-42a91535bd59?referralCode=c-aq4K)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/O2XqhT?referralCode=c-aq4K)
 
 ## ✨ Features
 
